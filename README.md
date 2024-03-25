@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Python projects**
 
-- 👨‍💻 All of my projects are available at [https://gitlab.emef.dev/emef](https://gitlab.emef.dev/)
+- 👨‍💻 All of my projects are available at [https://gitlab.emef.dev/emef](https://gitlab.emef.dev/emef)
 
 - ⚡ Fun fact **Most of my projects are private**
 
